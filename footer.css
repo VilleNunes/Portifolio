@@ -1,0 +1,56 @@
+footer{
+  background:url(assets/img/Background_Contacts.png);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 200px;
+}
+
+div p:nth-child(1){
+  text-align: center;
+  color:var(--purple);
+  font:var(--subtitle) ;
+  padding:128px 0px 15px;
+}
+
+div p:nth-child(3){
+  text-align: center;
+  color:var(--gray-500);
+  font:var(--text-md-ld );
+  margin-bottom: 46px;
+
+}
+
+footer h2{
+  text-align: center;
+  color: var(--gray-600);
+  font:var(--title-md);
+  margin-bottom:8px;
+}
+
+footer ul{
+  list-style: none;
+  display: flex;
+  gap: 16px;
+  flex-direction: column;
+  width: 400px;
+}
+
+footer ul li{
+  background-color: var(--gray-300);
+  padding:  20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  span{
+    gap: 18px;
+    display: flex;
+    align-items: center;
+    color: var(--gray-500);
+    font: var(--text-md-ld);
+  }
+}
+
+
