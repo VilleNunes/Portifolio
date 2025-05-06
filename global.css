@@ -19,11 +19,11 @@
   --font-asap:"Asap", sans-serif;
   --font-incosolata:"Inconsolata", monospace;
   --font-maven: "Maven Pro", sans-serif;
-  --title-lg: bold 56px/120% var(--font-asap);
-  --title-md:bold 24px/120% var(--font-asap);
-  --title-sm:bold 16px/120% var(--font-asap);
-  --subtitle: 20px/120% var(--font-incosolata);
-  --text-md-ld: 16px/140% var(--font-maven);
-  --text-sm-ld: 14px/140% var(--font-maven);
+  --title-lg: bold 3.5rem/120% var(--font-asap);
+  --title-md:bold 1.5rem/120% var(--font-asap);
+  --title-sm:bold 1rem/120% var(--font-asap);
+  --subtitle: 1.25rem/120% var(--font-incosolata);
+  --text-md-ld: 1rem/140% var(--font-maven);
+  --text-sm-ld: 1.25rem/140% var(--font-maven);
 }
 
