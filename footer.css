@@ -34,7 +34,7 @@ footer ul{
   display: flex;
   gap: 16px;
   flex-direction: column;
-  width: 400px;
+  width: 25rem;
 }
 
 footer ul li{
