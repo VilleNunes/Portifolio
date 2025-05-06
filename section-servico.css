@@ -3,7 +3,7 @@
 }
 
 #servico{
-  width: 880px;
+  width: 900px;
   margin: 0px auto;
   padding-bottom: 120px;
 }
@@ -27,6 +27,8 @@
   list-style: none;
   justify-content: center;
   gap: 24px;
+  flex-wrap: wrap;
+
 }
 
 #list-servicos li{
@@ -41,6 +43,7 @@
   p{
     color:var(--gray-500) ;
     font: var(text-sm-ld);
+    text-align: center;
     
   }
 

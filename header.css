@@ -1,10 +1,11 @@
 header{
   background-image: url(assets/img/Background_Intro.png);
   background-size: cover;
-  height: 100vh;
+  height: 130vh;
   display: flex;
   justify-content: center;
   align-items: center;
+
 }
 .container-header{
   display: flex;
@@ -15,8 +16,9 @@ header{
   display: flex;
   align-items: center;
   flex-direction: column;
-  width: 700px;
+  width: 30rem;
   text-align: center;
+
 
   span{
     color: var(--red);
@@ -43,8 +45,8 @@ header{
 
 
 #description-profile img{
-  width: 112px;
-  height: 112px;
+  width: 200px;
+  height: 200px;
   border-radius: 50%; 
   
 }
@@ -55,6 +57,7 @@ header{
   justify-content: center;
   gap: 16px;
   margin-bottom: 94px;
+  flex-wrap: wrap;
 }
 
 #skills li{
@@ -68,3 +71,5 @@ header{
   padding-block: 8px;
   border-radius:50px ;
 }
+
+
