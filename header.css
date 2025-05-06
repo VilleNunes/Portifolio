@@ -73,4 +73,10 @@ header{
   border-radius:50px ;
 }
 
+@media(width < 500px){
+  :root{
+    font-size: 12px;
+  }
+}
+
 
