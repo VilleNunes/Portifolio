@@ -19,7 +19,7 @@
   --font-asap:"Asap", sans-serif;
   --font-incosolata:"Inconsolata", monospace;
   --font-maven: "Maven Pro", sans-serif;
-  --title-lg: bold 3.5rem/120% var(--font-asap);
+  --title-lg: bold 2.5rem/120% var(--font-asap);
   --title-md:bold 1.5rem/120% var(--font-asap);
   --title-sm:bold 1rem/120% var(--font-asap);
   --subtitle: 1.25rem/120% var(--font-incosolata);
